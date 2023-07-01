@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>empathypicthree.png</file>
+    <file>greenishe.png</file>
+  </qresource>
+  <qresource prefix="aryify">
+    <file>logo.PNG</file>
+  </qresource>
+  <qresource prefix="ppic">
+    <file>staff (1).jpg</file>
+  </qresource>
+  <qresource prefix="two">
+    <file>np.png</file>
+  </qresource>
+  <qresource prefix="one">
+    <file>angrytwo.png</file>
+  </qresource>
+</RCC>
